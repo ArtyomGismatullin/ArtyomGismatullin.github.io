@@ -46,7 +46,8 @@ Git - это распределенная система контроля вер
       <link>https://example.com/post/%D0%BC%D0%BE%D1%8F-1-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
       <pubDate>Fri, 17 Mar 2023 17:57:20 +0300</pubDate>
       <guid>https://example.com/post/%D0%BC%D0%BE%D1%8F-1-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</guid>
-      <description>&lt;p&gt;Моя прошедшая неделя прошла замечательно. Я принимаю участие в МССИ, работаю много за шахматной доской, работаю также и с детьми и гораздо чаще стал посещать плавательный бассейн.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Моя прошедшая неделя прошла замечательно.&lt;/strong&gt;
+Я принимаю участие в МССИ, работаю много за шахматной доской, работаю также и с детьми и гораздо чаще стал посещать плавательный бассейн.&lt;/p&gt;
 </description>
     </item>
     
@@ -234,7 +235,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-723518694&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-123896457&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -244,7 +245,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-723518694&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-123896457&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

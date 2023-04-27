@@ -33,6 +33,16 @@
     </item>
     
     <item>
+      <title>Моя 2 Неделя</title>
+      <link>https://example.com/post/%D0%BC%D0%BE%D1%8F-2-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
+      <pubDate>Thu, 27 Apr 2023 17:39:46 +0300</pubDate>
+      <guid>https://example.com/post/%D0%BC%D0%BE%D1%8F-2-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Моя неделя все так же замечательна.&lt;/strong&gt;
+Неделя прошла на &amp;ldquo;отлично&amp;rdquo;. Провел два шахматных матча (хотя последний с МИРЭА прошел не столь удачно). Дел оставил на эту неделю много, поэтому рассчитываю дальше работать, работать, работать&amp;hellip;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Git</title>
       <link>https://example.com/post/git/</link>
       <pubDate>Fri, 17 Mar 2023 17:57:59 +0300</pubDate>
@@ -255,7 +265,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-945271836&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-934167258&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -265,7 +275,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-945271836&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-934167258&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

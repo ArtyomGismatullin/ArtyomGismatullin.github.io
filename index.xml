@@ -33,22 +33,66 @@
     </item>
     
     <item>
-      <title>Оформление отчёта</title>
-      <link>https://example.com/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</link>
-      <pubDate>Fri, 28 Apr 2023 09:38:03 +0300</pubDate>
-      <guid>https://example.com/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Отчеты в Markdown&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Markdown-разметка популярна из-за своей простоты. Вы форматируете текст в тексте, указывая символами на то, что это: заголовок, курсив или же картинка. Сохраняете на простых тектовых файлах. Они весьма быстро открываются, совсем немного весят, содержимое легко конвертируется в pdf и docx и без проблем размещается в интернет-сети&lt;/p&gt;
+      <title>My fourth week</title>
+      <link>https://example.com/post/%D0%BC%D0%BE%D1%8F-4-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
+      <pubDate>Mon, 22 May 2023 13:36:48 +0300</pubDate>
+      <guid>https://example.com/post/%D0%BC%D0%BE%D1%8F-4-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;It was hard&amp;hellip;&lt;/strong&gt;
+I spent last week in Mordovia. Not that I was happy with the results - we placed 4th in the team competition - but I definitely made a lot of new friends, and had a great time overall. All the work is just ahead&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Моя 2 Неделя</title>
+      <title>Scientific Programming Languages</title>
+      <link>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
+      <pubDate>Fri, 12 May 2023 09:31:12 +0300</pubDate>
+      <guid>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Programming languages&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Programming language - a formal language designed for recording computer programs. Programming language defines the set of lexical, syntactic and semantic rules that define the appearance of the program and the actions that the executor (usually a computer) will perform under its control.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Научное програмирование&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Научное программирование — высокоориентированный стиль программирования для научных расчетов. От других видов программирования его отличают предельные корректность и стабильность конечного продукта,
+строгое разделение научной и интерфейсной частей, индивидуальность алгоритмов, а также преобладание эффективности над универсальностью.&lt;/p&gt;
+&lt;p&gt;Научное программирование лежит в основе любого современного глобального исследования.
+Все передовые технологии — от квантовых компьютеров до космических программ — были бы невозможны без специалистов в области научного программирования,
+способных предоставить ученым надежный и точный инструмент для совершения открытий.&lt;/p&gt;
+&lt;p&gt;Ряд отраслей науки непосредственно зависят от уровня развития научного программирования.
+Так, своего исполнения ждут беспилотный транспорт, «умные» системы управления городским и сельским хозяйством, фондовыми биржами; ждут робототехника, генная инженерия, искусственный интеллект, превосходящий возможности человека.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Специализации&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ученые используют различные языки программирования, выбор которых зависит от типа задачи и предпочтений автора. Исторически первым высокоуровневым языком программирования является Fortran,
+на нем написано много отлаженных библиотек математической статистики и библиотек для решения дифференциальных уравнений, что актуально для экономики и биологии соответственно.
+Более простым синтаксисом обладает Python, также подходящий для программирования математических вычислений.&lt;/p&gt;
+&lt;p&gt;Язык Python привлекается для обработки данных в математике, физике, экономике, биологии, химии и умеет работать с некоторыми другими «научными» языками: Fortran, C++, C#.
+В свою очередь C# позволяет программировать на платформе .NET, адаптировать программу к общеязыковой исполняющей среде (CLR) и ускорить разработку в рамках оперативных научных сессий.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My third week</title>
+      <link>https://example.com/post/%D0%BC%D0%BE%D1%8F-3-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
+      <pubDate>Fri, 12 May 2023 09:30:46 +0300</pubDate>
+      <guid>https://example.com/post/%D0%BC%D0%BE%D1%8F-3-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Took a lot of work&lt;/strong&gt;
+Not so long ago I found out that we were selected for the ASSC! Our team miraculously won the last ticket to the final stage, so I devoted almost the whole previous week to chess&amp;hellip; I think that I&amp;rsquo;m confident in my abilities and that we&amp;rsquo;ll make it. And now I, like at the end of the previous week, am in a hurry to do my lab work ahead of time, so as not to fall behind on the program because of this trip, since the tournament will be held in Saransk.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report formatting</title>
+      <link>https://example.com/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</link>
+      <pubDate>Fri, 28 Apr 2023 09:38:03 +0300</pubDate>
+      <guid>https://example.com/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Reporting in Markdown&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Markdown markup is popular because of its simplicity. You format text in text by specifying whether it is a header, italics or a picture. You save it on simple text files. They are very fast to open, weigh very little, the content is easily convertible to pdf and docx, and can be easily posted on the Internet&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My second week</title>
       <link>https://example.com/post/%D0%BC%D0%BE%D1%8F-2-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
       <pubDate>Thu, 27 Apr 2023 17:39:46 +0300</pubDate>
       <guid>https://example.com/post/%D0%BC%D0%BE%D1%8F-2-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Моя неделя все так же замечательна.&lt;/strong&gt;
-Неделя прошла на &amp;ldquo;отлично&amp;rdquo;. Провел два шахматных матча (хотя последний с МИРЭА прошел не столь удачно). Дел оставил на эту неделю много, поэтому рассчитываю дальше работать, работать, работать&amp;hellip;.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;My week is still going great&lt;/strong&gt;
+The week went great. Had two chess matches (although the last one against the MIREA was not so successful). Left a lot to do this week, so I expect to continue to work, work, work&amp;hellip;.&lt;/p&gt;
 </description>
     </item>
     
@@ -57,37 +101,37 @@
       <link>https://example.com/post/git/</link>
       <pubDate>Fri, 17 Mar 2023 17:57:59 +0300</pubDate>
       <guid>https://example.com/post/git/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Git - система управления версиями&lt;/strong&gt;
-Git - это распределенная система контроля версий (VCS), которую создал Линус Торвальдс в 2005 году для управления исходным кодом ядра Linux. Она позволяет отслеживать изменения в коде, хранить его в репозитории (хранилище) и делать с ним все необходимые операции: создавать, изменять, комментировать, редактировать, сравнивать и т.д. Git предоставляет широкий набор инструментов, позволяющих работать с кодом как индивидуально, так и в команде, а также интегрироваться с другими инструментами и сервисами. В настоящее время Git является одной из самых популярных систем контроля версий, которая используется в различных сферах, таких как программирование, наука, дизайн и многих других.&lt;/p&gt;
-&lt;p&gt;Основные преимущества использования Git для разработки:&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Git is a version control system&lt;/strong&gt;
+Git is a distributed version control system (VCS) created by Linus Torvalds in 2005 to manage the Linux kernel source code. It lets you track changes to the code, store it in a repository (a repository) and do all the necessary operations with it: create, modify, comment, edit, compare, etc. Git provides a wide range of tools that allow you to work with code both individually and in teams, as well as integrate with other tools and services. Git is currently one of the most popular version control systems used in various fields such as programming, science, design, and many others.&lt;/p&gt;
+&lt;p&gt;The main advantages of using Git for development are:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;Контроль версий: Git позволяет отслеживать все изменения, которые были сделаны в проекте, что позволяет быстро откатить проект в предыдущую версию, если это необходимо.&lt;/p&gt;
+&lt;p&gt;Version control: Git allows you to keep track of all changes that have been made to a project, allowing you to quickly roll back the project to a previous version if necessary.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Работа в команде: Git обеспечивает эффективное совместное использование проектов и совместную работу над ними. В командах разработчиков Git позволяет просто сливать изменения, что улучшает связность и сокращает время разработки.&lt;/p&gt;
+&lt;p&gt;Teamwork: Git makes it easy to share and collaborate on projects. In development teams, Git allows you to simply merge changes, which improves connectivity and reduces development time.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Резервное копирование: Git обеспечивает быструю и эффективную резервную копию проектов и отдельных файлов, что обеспечивает сохранность данных в случае неисправности сервера или компьютера.&lt;/p&gt;
+&lt;p&gt;Backup: Git provides quick and efficient backups of projects and individual files, which keeps your data safe in the event of server or computer failure.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Работа в офлайн режиме: Git позволяет разработчикам работать в офлайн режиме, что улучшает связность, сокращает время разработки и повышает эффективность работы.&lt;/p&gt;
+&lt;p&gt;Offline work: Git allows developers to work offline, which improves connectivity, reduces development time, and increases efficiency.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Интеграция: Git интегрируется с различными сервисами, такими как GitHub, Bitbucket, Gitea, GitLab и другие, что обеспечивает легкую совместную работу над проектами и готовность к релизу.&lt;/p&gt;
+&lt;p&gt;Integration: Git integrates with various services such as GitHub, Bitbucket, Gitea, GitLab, and others, allowing for easy project collaboration and release readiness.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Использование Git - это основной инструмент для управления и контроля версий проектов, который поможет сократить время разработки и улучшить их качества.&lt;/p&gt;
+&lt;p&gt;Using Git is an essential tool for managing and controlling project versions to help reduce development time and improve project quality.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Моя 1 Неделя</title>
+      <title>My first week</title>
       <link>https://example.com/post/%D0%BC%D0%BE%D1%8F-1-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
       <pubDate>Fri, 17 Mar 2023 17:57:20 +0300</pubDate>
       <guid>https://example.com/post/%D0%BC%D0%BE%D1%8F-1-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Моя прошедшая неделя прошла замечательно.&lt;/strong&gt;
-Я принимаю участие в МССИ, работаю много за шахматной доской, работаю также и с детьми и гораздо чаще стал посещать плавательный бассейн.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;My past week has been wonderful&lt;/strong&gt;
+I&amp;rsquo;ve been taking part in MSCI, working a lot at the chess board, working with the kids as well, and going to the swimming pool much more often.&lt;/p&gt;
 </description>
     </item>
     
@@ -275,7 +319,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-193578462&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-731584926&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -285,7 +329,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-193578462&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-731584926&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -483,44 +527,8 @@ Crash --&gt; [*]
   
     
     
-    &lt;tr&gt;  &lt;th&gt;customer_id&lt;/th&gt;  &lt;th&gt;score&lt;/th&gt;  &lt;/tr&gt;
+    &lt;tr&gt;  &lt;/tr&gt;
   
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;1&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;0&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;2&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;0.5&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;3&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;1&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
   
   
     &lt;caption&gt;Table 1: My results&lt;/caption&gt;
@@ -643,10 +651,10 @@ Crash --&gt; [*]
       <link>https://example.com/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://example.com/slides/example/</guid>
-      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;h1 id=&#34;этапы-реализации-индивидуального-проекта&#34;&gt;Этапы реализации индивидуального проекта&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://github.com/ArtyomGismatullin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;h2 id=&#34;размещение-на-github-pages-заготовки-для-персонального-сайта&#34;&gt;Размещение на GitHub pages заготовки для персонального сайта.&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
 &lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
@@ -764,24 +772,113 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>External Project</title>
       <link>https://example.com/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/external-project/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Индивидуальный проект</title>
+      <link>https://example.com/project/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Этапы реализации проекта&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Размещение на Github pages заготовки для персонального сайта.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Установить необходимое программное обеспечение.&lt;/li&gt;
+&lt;li&gt;Скачать шаблон темы сайта.&lt;/li&gt;
+&lt;li&gt;Разместить его на хостинге git.&lt;/li&gt;
+&lt;li&gt;Установить параметр для URLs сайта.&lt;/li&gt;
+&lt;li&gt;Разместить заготовку сайта на Github pages.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Добавить к сайту данные о себе.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Список добавляемых данных.
+&lt;ul&gt;
+&lt;li&gt;Разместить фотографию владельца сайта.&lt;/li&gt;
+&lt;li&gt;Разместить краткое описание владельца сайта (Biography).&lt;/li&gt;
+&lt;li&gt;Добавить информацию об интересах (Interests).&lt;/li&gt;
+&lt;li&gt;Добавить информацию от образовании (Education).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору:
+&lt;ul&gt;
+&lt;li&gt;Управление версиями. Git.&lt;/li&gt;
+&lt;li&gt;Непрерывная интеграция и непрерывное развертывание (CI/CD).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Добавить к сайту достижения.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Список достижений.
+&lt;ul&gt;
+&lt;li&gt;Добавить информацию о навыках (Skills).&lt;/li&gt;
+&lt;li&gt;Добавить информацию об опыте (Experience).&lt;/li&gt;
+&lt;li&gt;Добавить информацию о достижениях (Accomplishments).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору:
+&lt;ul&gt;
+&lt;li&gt;Легковесные языки разметки.&lt;/li&gt;
+&lt;li&gt;Языки разметки. LaTeX.&lt;/li&gt;
+&lt;li&gt;Язык разметки Markdown.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Добавить к сайту ссылки на научные и библиометрические ресурсы.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Зарегистрироваться на соответствующих ресурсах и разместить на них ссылки на сайте:
+&lt;ul&gt;
+&lt;li&gt;eLibrary : &lt;a href=&#34;https://elibrary.ru/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://elibrary.ru/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Google Scholar : &lt;a href=&#34;https://scholar.google.com/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scholar.google.com/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Academia.edu : &lt;a href=&#34;https://www.academia.edu/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.academia.edu/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;github : &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору:
+&lt;ul&gt;
+&lt;li&gt;Оформление отчёта.&lt;/li&gt;
+&lt;li&gt;Создание презентаций.&lt;/li&gt;
+&lt;li&gt;Работа с библиографией.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Добавить с сайту все остальные элементы.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Сделать записи для персональных проектов.&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору.
+&lt;ul&gt;
+&lt;li&gt;Языки научного программирования.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;Размещение двуязычного сайта на Github.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Сделать поддержку английского и русского языков.&lt;/li&gt;
+&lt;li&gt;Разместить элементы сайта на обоих языках.&lt;/li&gt;
+&lt;li&gt;Разместить контент на обоих языках.&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору (на двух языках).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>

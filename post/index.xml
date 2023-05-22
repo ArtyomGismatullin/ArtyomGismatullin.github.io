@@ -5,7 +5,7 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Apr 2023 09:38:03 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 May 2023 13:36:48 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
@@ -13,22 +13,66 @@
     </image>
     
     <item>
-      <title>Оформление отчёта</title>
-      <link>https://example.com/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</link>
-      <pubDate>Fri, 28 Apr 2023 09:38:03 +0300</pubDate>
-      <guid>https://example.com/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Отчеты в Markdown&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Markdown-разметка популярна из-за своей простоты. Вы форматируете текст в тексте, указывая символами на то, что это: заголовок, курсив или же картинка. Сохраняете на простых тектовых файлах. Они весьма быстро открываются, совсем немного весят, содержимое легко конвертируется в pdf и docx и без проблем размещается в интернет-сети&lt;/p&gt;
+      <title>My fourth week</title>
+      <link>https://example.com/post/%D0%BC%D0%BE%D1%8F-4-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
+      <pubDate>Mon, 22 May 2023 13:36:48 +0300</pubDate>
+      <guid>https://example.com/post/%D0%BC%D0%BE%D1%8F-4-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;It was hard&amp;hellip;&lt;/strong&gt;
+I spent last week in Mordovia. Not that I was happy with the results - we placed 4th in the team competition - but I definitely made a lot of new friends, and had a great time overall. All the work is just ahead&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Моя 2 Неделя</title>
+      <title>Scientific Programming Languages</title>
+      <link>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
+      <pubDate>Fri, 12 May 2023 09:31:12 +0300</pubDate>
+      <guid>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Programming languages&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Programming language - a formal language designed for recording computer programs. Programming language defines the set of lexical, syntactic and semantic rules that define the appearance of the program and the actions that the executor (usually a computer) will perform under its control.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Научное програмирование&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Научное программирование — высокоориентированный стиль программирования для научных расчетов. От других видов программирования его отличают предельные корректность и стабильность конечного продукта,
+строгое разделение научной и интерфейсной частей, индивидуальность алгоритмов, а также преобладание эффективности над универсальностью.&lt;/p&gt;
+&lt;p&gt;Научное программирование лежит в основе любого современного глобального исследования.
+Все передовые технологии — от квантовых компьютеров до космических программ — были бы невозможны без специалистов в области научного программирования,
+способных предоставить ученым надежный и точный инструмент для совершения открытий.&lt;/p&gt;
+&lt;p&gt;Ряд отраслей науки непосредственно зависят от уровня развития научного программирования.
+Так, своего исполнения ждут беспилотный транспорт, «умные» системы управления городским и сельским хозяйством, фондовыми биржами; ждут робототехника, генная инженерия, искусственный интеллект, превосходящий возможности человека.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Специализации&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ученые используют различные языки программирования, выбор которых зависит от типа задачи и предпочтений автора. Исторически первым высокоуровневым языком программирования является Fortran,
+на нем написано много отлаженных библиотек математической статистики и библиотек для решения дифференциальных уравнений, что актуально для экономики и биологии соответственно.
+Более простым синтаксисом обладает Python, также подходящий для программирования математических вычислений.&lt;/p&gt;
+&lt;p&gt;Язык Python привлекается для обработки данных в математике, физике, экономике, биологии, химии и умеет работать с некоторыми другими «научными» языками: Fortran, C++, C#.
+В свою очередь C# позволяет программировать на платформе .NET, адаптировать программу к общеязыковой исполняющей среде (CLR) и ускорить разработку в рамках оперативных научных сессий.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My third week</title>
+      <link>https://example.com/post/%D0%BC%D0%BE%D1%8F-3-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
+      <pubDate>Fri, 12 May 2023 09:30:46 +0300</pubDate>
+      <guid>https://example.com/post/%D0%BC%D0%BE%D1%8F-3-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Took a lot of work&lt;/strong&gt;
+Not so long ago I found out that we were selected for the ASSC! Our team miraculously won the last ticket to the final stage, so I devoted almost the whole previous week to chess&amp;hellip; I think that I&amp;rsquo;m confident in my abilities and that we&amp;rsquo;ll make it. And now I, like at the end of the previous week, am in a hurry to do my lab work ahead of time, so as not to fall behind on the program because of this trip, since the tournament will be held in Saransk.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report formatting</title>
+      <link>https://example.com/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</link>
+      <pubDate>Fri, 28 Apr 2023 09:38:03 +0300</pubDate>
+      <guid>https://example.com/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Reporting in Markdown&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Markdown markup is popular because of its simplicity. You format text in text by specifying whether it is a header, italics or a picture. You save it on simple text files. They are very fast to open, weigh very little, the content is easily convertible to pdf and docx, and can be easily posted on the Internet&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My second week</title>
       <link>https://example.com/post/%D0%BC%D0%BE%D1%8F-2-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
       <pubDate>Thu, 27 Apr 2023 17:39:46 +0300</pubDate>
       <guid>https://example.com/post/%D0%BC%D0%BE%D1%8F-2-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Моя неделя все так же замечательна.&lt;/strong&gt;
-Неделя прошла на &amp;ldquo;отлично&amp;rdquo;. Провел два шахматных матча (хотя последний с МИРЭА прошел не столь удачно). Дел оставил на эту неделю много, поэтому рассчитываю дальше работать, работать, работать&amp;hellip;.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;My week is still going great&lt;/strong&gt;
+The week went great. Had two chess matches (although the last one against the MIREA was not so successful). Left a lot to do this week, so I expect to continue to work, work, work&amp;hellip;.&lt;/p&gt;
 </description>
     </item>
     
@@ -37,37 +81,37 @@
       <link>https://example.com/post/git/</link>
       <pubDate>Fri, 17 Mar 2023 17:57:59 +0300</pubDate>
       <guid>https://example.com/post/git/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Git - система управления версиями&lt;/strong&gt;
-Git - это распределенная система контроля версий (VCS), которую создал Линус Торвальдс в 2005 году для управления исходным кодом ядра Linux. Она позволяет отслеживать изменения в коде, хранить его в репозитории (хранилище) и делать с ним все необходимые операции: создавать, изменять, комментировать, редактировать, сравнивать и т.д. Git предоставляет широкий набор инструментов, позволяющих работать с кодом как индивидуально, так и в команде, а также интегрироваться с другими инструментами и сервисами. В настоящее время Git является одной из самых популярных систем контроля версий, которая используется в различных сферах, таких как программирование, наука, дизайн и многих других.&lt;/p&gt;
-&lt;p&gt;Основные преимущества использования Git для разработки:&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Git is a version control system&lt;/strong&gt;
+Git is a distributed version control system (VCS) created by Linus Torvalds in 2005 to manage the Linux kernel source code. It lets you track changes to the code, store it in a repository (a repository) and do all the necessary operations with it: create, modify, comment, edit, compare, etc. Git provides a wide range of tools that allow you to work with code both individually and in teams, as well as integrate with other tools and services. Git is currently one of the most popular version control systems used in various fields such as programming, science, design, and many others.&lt;/p&gt;
+&lt;p&gt;The main advantages of using Git for development are:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;Контроль версий: Git позволяет отслеживать все изменения, которые были сделаны в проекте, что позволяет быстро откатить проект в предыдущую версию, если это необходимо.&lt;/p&gt;
+&lt;p&gt;Version control: Git allows you to keep track of all changes that have been made to a project, allowing you to quickly roll back the project to a previous version if necessary.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Работа в команде: Git обеспечивает эффективное совместное использование проектов и совместную работу над ними. В командах разработчиков Git позволяет просто сливать изменения, что улучшает связность и сокращает время разработки.&lt;/p&gt;
+&lt;p&gt;Teamwork: Git makes it easy to share and collaborate on projects. In development teams, Git allows you to simply merge changes, which improves connectivity and reduces development time.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Резервное копирование: Git обеспечивает быструю и эффективную резервную копию проектов и отдельных файлов, что обеспечивает сохранность данных в случае неисправности сервера или компьютера.&lt;/p&gt;
+&lt;p&gt;Backup: Git provides quick and efficient backups of projects and individual files, which keeps your data safe in the event of server or computer failure.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Работа в офлайн режиме: Git позволяет разработчикам работать в офлайн режиме, что улучшает связность, сокращает время разработки и повышает эффективность работы.&lt;/p&gt;
+&lt;p&gt;Offline work: Git allows developers to work offline, which improves connectivity, reduces development time, and increases efficiency.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Интеграция: Git интегрируется с различными сервисами, такими как GitHub, Bitbucket, Gitea, GitLab и другие, что обеспечивает легкую совместную работу над проектами и готовность к релизу.&lt;/p&gt;
+&lt;p&gt;Integration: Git integrates with various services such as GitHub, Bitbucket, Gitea, GitLab, and others, allowing for easy project collaboration and release readiness.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Использование Git - это основной инструмент для управления и контроля версий проектов, который поможет сократить время разработки и улучшить их качества.&lt;/p&gt;
+&lt;p&gt;Using Git is an essential tool for managing and controlling project versions to help reduce development time and improve project quality.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Моя 1 Неделя</title>
+      <title>My first week</title>
       <link>https://example.com/post/%D0%BC%D0%BE%D1%8F-1-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
       <pubDate>Fri, 17 Mar 2023 17:57:20 +0300</pubDate>
       <guid>https://example.com/post/%D0%BC%D0%BE%D1%8F-1-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Моя прошедшая неделя прошла замечательно.&lt;/strong&gt;
-Я принимаю участие в МССИ, работаю много за шахматной доской, работаю также и с детьми и гораздо чаще стал посещать плавательный бассейн.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;My past week has been wonderful&lt;/strong&gt;
+I&amp;rsquo;ve been taking part in MSCI, working a lot at the chess board, working with the kids as well, and going to the swimming pool much more often.&lt;/p&gt;
 </description>
     </item>
     
@@ -255,7 +299,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-193578462&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-731584926&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -265,7 +309,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-193578462&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-731584926&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -463,44 +507,8 @@ Crash --&gt; [*]
   
     
     
-    &lt;tr&gt;  &lt;th&gt;customer_id&lt;/th&gt;  &lt;th&gt;score&lt;/th&gt;  &lt;/tr&gt;
+    &lt;tr&gt;  &lt;/tr&gt;
   
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;1&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;0&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;2&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;0.5&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;3&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;1&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
   
   
     &lt;caption&gt;Table 1: My results&lt;/caption&gt;

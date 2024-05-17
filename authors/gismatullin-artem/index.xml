@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gismatullin Artem | Academic</title>
+    <link>https://example.com/authors/gismatullin-artem/</link>
+      <atom:link href="https://example.com/authors/gismatullin-artem/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gismatullin Artem</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Mar 2023 17:57:59 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Gismatullin Artem</title>
+      <link>https://example.com/authors/gismatullin-artem/</link>
+    </image>
+    
+    <item>
+      <title>Git</title>
+      <link>https://example.com/en/post/git/</link>
+      <pubDate>Fri, 17 Mar 2023 17:57:59 +0300</pubDate>
+      <guid>https://example.com/en/post/git/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Git is a version control system&lt;/strong&gt;
+Git is a distributed version control system (VCS) created by Linus Torvalds in 2005 to manage the Linux kernel source code. It lets you track changes to the code, store it in a repository (a repository) and do all the necessary operations with it: create, modify, comment, edit, compare, etc. Git provides a wide range of tools that allow you to work with code both individually and in teams, as well as integrate with other tools and services. Git is currently one of the most popular version control systems used in various fields such as programming, science, design, and many others.&lt;/p&gt;
+&lt;p&gt;The main advantages of using Git for development are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Version control: Git allows you to keep track of all changes that have been made to a project, allowing you to quickly roll back the project to a previous version if necessary.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Teamwork: Git makes it easy to share and collaborate on projects. In development teams, Git allows you to simply merge changes, which improves connectivity and reduces development time.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Backup: Git provides quick and efficient backups of projects and individual files, which keeps your data safe in the event of server or computer failure.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Offline work: Git allows developers to work offline, which improves connectivity, reduces development time, and increases efficiency.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Integration: Git integrates with various services such as GitHub, Bitbucket, Gitea, GitLab, and others, allowing for easy project collaboration and release readiness.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Using Git is an essential tool for managing and controlling project versions to help reduce development time and improve project quality.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

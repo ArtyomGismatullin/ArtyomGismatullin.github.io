@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Academic</title>
-    <link>https://example.com/ru/post/</link>
-      <atom:link href="https://example.com/ru/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/ru/post/</link>
+      <atom:link href="http://localhost:1313/ru/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 22 May 2023 13:36:48 +0300</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 May 2023 13:36:48 +0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://example.com/ru/post/</link>
+      <link>http://localhost:1313/ru/post/</link>
     </image>
     
     <item>
       <title>Моя 4 неделя</title>
-      <link>https://example.com/ru/post/%D0%BC%D0%BE%D1%8F-4-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
+      <link>http://localhost:1313/ru/post/%D0%BC%D0%BE%D1%8F-4-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
       <pubDate>Mon, 22 May 2023 13:36:48 +0300</pubDate>
-      <guid>https://example.com/ru/post/%D0%BC%D0%BE%D1%8F-4-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</guid>
+      <guid>http://localhost:1313/ru/post/%D0%BC%D0%BE%D1%8F-4-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Это было сложно&amp;hellip;&lt;/strong&gt;
 Прошлую неделю я провел в Мордовии. Не то что бы остался доволен результатами - заняли 4 место в командном зачете, - но я, определенно, завел много новых полезных знакомств, да и в целом провел замечательно время. Вся работа только впереди&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Языки Научного Программирования</title>
-      <link>https://example.com/ru/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
+      <link>http://localhost:1313/ru/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
       <pubDate>Fri, 12 May 2023 09:31:12 +0300</pubDate>
-      <guid>https://example.com/ru/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
+      <guid>http://localhost:1313/ru/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Языки программирования&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Язы́к программи́рования — формальный язык, предназначенный для записи компьютерных программ. Язык программирования определяет набор лексических, синтаксических и семантических правил, определяющих внешний вид программы и действия, которые выполнит исполнитель (обычно — ЭВМ) под её управлением.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Научное програмирование&lt;/strong&gt;&lt;/p&gt;
@@ -48,9 +48,9 @@
     
     <item>
       <title>Моя 3 Неделя</title>
-      <link>https://example.com/ru/post/%D0%BC%D0%BE%D1%8F-3-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
+      <link>http://localhost:1313/ru/post/%D0%BC%D0%BE%D1%8F-3-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
       <pubDate>Fri, 12 May 2023 09:30:46 +0300</pubDate>
-      <guid>https://example.com/ru/post/%D0%BC%D0%BE%D1%8F-3-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</guid>
+      <guid>http://localhost:1313/ru/post/%D0%BC%D0%BE%D1%8F-3-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Пришлось значительно потрудиться&lt;/strong&gt;
 Не так давно узнал, что мы отобрались на АССК! Наша команда чудесным образом забрала последнюю путевку на финальный этап, ввиду чего я почти всю предыдущую неделю посвятил шахматам&amp;hellip; Думаю, что я уверен в своих силах и что у нас все получится. А сейчас я, как и в конце предыдущей недели, спешу сделать лабораторные работы наперед, чтобы не отставать по программе из-за этой поездки, так как турнир будет проходить в г. Саранск.&lt;/p&gt;
 </description>
@@ -58,9 +58,9 @@
     
     <item>
       <title>Оформление отчёта</title>
-      <link>https://example.com/ru/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</link>
+      <link>http://localhost:1313/ru/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</link>
       <pubDate>Fri, 28 Apr 2023 09:38:03 +0300</pubDate>
-      <guid>https://example.com/ru/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</guid>
+      <guid>http://localhost:1313/ru/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Отчеты в Markdown&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Markdown-разметка популярна из-за своей простоты. Вы форматируете текст в тексте, указывая символами на то, что это: заголовок, курсив или же картинка. Сохраняете на простых тектовых файлах. Они весьма быстро открываются, совсем немного весят, содержимое легко конвертируется в pdf и docx и без проблем размещается в интернет-сети&lt;/p&gt;
 </description>
@@ -68,9 +68,9 @@
     
     <item>
       <title>Моя 2 Неделя</title>
-      <link>https://example.com/ru/post/%D0%BC%D0%BE%D1%8F-2-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
+      <link>http://localhost:1313/ru/post/%D0%BC%D0%BE%D1%8F-2-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
       <pubDate>Thu, 27 Apr 2023 17:39:46 +0300</pubDate>
-      <guid>https://example.com/ru/post/%D0%BC%D0%BE%D1%8F-2-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</guid>
+      <guid>http://localhost:1313/ru/post/%D0%BC%D0%BE%D1%8F-2-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Моя неделя все так же замечательна.&lt;/strong&gt;
 Неделя прошла на &amp;ldquo;отлично&amp;rdquo;. Провел два шахматных матча (хотя последний с МИРЭА прошел не столь удачно). Дел оставил на эту неделю много, поэтому рассчитываю дальше работать, работать, работать&amp;hellip;.&lt;/p&gt;
 </description>
@@ -78,9 +78,9 @@
     
     <item>
       <title>Git</title>
-      <link>https://example.com/ru/post/git/</link>
+      <link>http://localhost:1313/ru/post/git/</link>
       <pubDate>Fri, 17 Mar 2023 17:57:59 +0300</pubDate>
-      <guid>https://example.com/ru/post/git/</guid>
+      <guid>http://localhost:1313/ru/post/git/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Git - система управления версиями&lt;/strong&gt;
 Git - это распределенная система контроля версий (VCS), которую создал Линус Торвальдс в 2005 году для управления исходным кодом ядра Linux. Она позволяет отслеживать изменения в коде, хранить его в репозитории (хранилище) и делать с ним все необходимые операции: создавать, изменять, комментировать, редактировать, сравнивать и т.д. Git предоставляет широкий набор инструментов, позволяющих работать с кодом как индивидуально, так и в команде, а также интегрироваться с другими инструментами и сервисами. В настоящее время Git является одной из самых популярных систем контроля версий, которая используется в различных сферах, таких как программирование, наука, дизайн и многих других.&lt;/p&gt;
 &lt;p&gt;Основные преимущества использования Git для разработки:&lt;/p&gt;
@@ -107,9 +107,9 @@ Git - это распределенная система контроля вер
     
     <item>
       <title>Моя 1 Неделя</title>
-      <link>https://example.com/ru/post/%D0%BC%D0%BE%D1%8F-1-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
+      <link>http://localhost:1313/ru/post/%D0%BC%D0%BE%D1%8F-1-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
       <pubDate>Fri, 17 Mar 2023 17:57:20 +0300</pubDate>
-      <guid>https://example.com/ru/post/%D0%BC%D0%BE%D1%8F-1-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</guid>
+      <guid>http://localhost:1313/ru/post/%D0%BC%D0%BE%D1%8F-1-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Моя прошедшая неделя прошла замечательно.&lt;/strong&gt;
 Я принимаю участие в МССИ, работаю много за шахматной доской, работаю также и с детьми и гораздо чаще стал посещать плавательный бассейн.&lt;/p&gt;
 </description>
@@ -117,9 +117,9 @@ Git - это распределенная система контроля вер
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://example.com/ru/post/getting-started/</link>
+      <link>http://localhost:1313/ru/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/getting-started/</guid>
+      <guid>http://localhost:1313/ru/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -197,9 +197,9 @@ Git - это распределенная система контроля вер
     
     <item>
       <title>Writing technical content in Markdown</title>
-      <link>https://example.com/ru/post/writing-technical-content/</link>
+      <link>http://localhost:1313/ru/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/writing-technical-content/</guid>
+      <guid>http://localhost:1313/ru/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -299,7 +299,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-139465728&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-452897361&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -309,7 +309,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-139465728&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-452897361&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -507,8 +507,44 @@ Crash --&gt; [*]
   
     
     
-    &lt;tr&gt;  &lt;/tr&gt;
+    &lt;tr&gt;  &lt;th&gt;customer_id&lt;/th&gt;  &lt;th&gt;score&lt;/th&gt;  &lt;/tr&gt;
   
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;1&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;0&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;2&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;0.5&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;3&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;1&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
   
   
     &lt;caption&gt;Table 1: My results&lt;/caption&gt;
@@ -555,9 +591,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://example.com/ru/post/jupyter/</link>
+      <link>http://localhost:1313/ru/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/jupyter/</guid>
+      <guid>http://localhost:1313/ru/post/jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
